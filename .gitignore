@@ -1,0 +1,7 @@
+.project
+.settings/
+gwt-unitCache/
+.gwt
+.DS_Store
+test/
+test-classes/
